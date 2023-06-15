@@ -5,7 +5,7 @@
  
  Requirements: Python
  
- Step 1: Install the latest release (Insert release here)
+ Step 1: Install the latest [release](https://github.com/King-Clawthorne/Brick-Hill-Special-Sniper/releases)
  
  Step 2: Extract the zip
  
