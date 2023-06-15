@@ -1,3 +1,9 @@
+# Welcome to the main coding that makes this cool project work :D. Please credit me if your plan on editing or sharing this project!
+
+# all source code is on https://github.com/King-Clawthorne/Brick-Hill-Special-Sniper
+
+# Made By Clawthorne (aka elevator) or Studios on brick-hill
+
 import requests
 from urllib.parse import unquote
 from bs4 import BeautifulSoup
