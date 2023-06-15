@@ -4,7 +4,6 @@
 
 # Made By Clawthorne (aka elevator) or Studios on brick-hill
 
-
 import requests
 from urllib.parse import unquote
 from bs4 import BeautifulSoup
